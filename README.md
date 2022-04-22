@@ -18,3 +18,4 @@ int main () {
 
 # post message mouse click
 https://guidedhacking.com/threads/share-random-code-snippets.13865/#post-83110
+https://guidedhacking.com/threads/sending-mouse-clicks-to-a-window-in-background.15879/
