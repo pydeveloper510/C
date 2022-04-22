@@ -15,3 +15,6 @@ int main () {
 }
 ```
 # Dll injection
+
+# post message mouse click
+https://guidedhacking.com/threads/share-random-code-snippets.13865/#post-83110
