@@ -20,3 +20,10 @@ int main () {
 https://guidedhacking.com/threads/share-random-code-snippets.13865/#post-83110
 
 https://guidedhacking.com/threads/sending-mouse-clicks-to-a-window-in-background.15879/
+
+# post message click button
+```
+HWND hwnd = ::FindWindow(NULL, strWindowName);
+HWND hwndChild = ::FindWindowEx(hwnd, NULL, L"Button", L"ok");
+postMessage(hwndChild, BM_CLICK, 0, 0);
+```
